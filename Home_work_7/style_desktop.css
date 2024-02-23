@@ -47,7 +47,7 @@ button {
     color: rgb(241, 109, 127);
 }
 
-/*region header*/
+
 .header {
     max-width: 1600px;
     max-height: 75px;
@@ -65,9 +65,9 @@ button {
     gap: 20px;
 }
 
-/*endregion*/
 
-/*region banner*/
+
+
 .banner {
     max-width: 1600px;
     min-height: 764px;
@@ -101,9 +101,9 @@ button {
     background: rgb(241, 109, 127);
 }
 
-/*endregion*/
 
-/*region offer*/
+
+
 .offer {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -153,10 +153,7 @@ button {
     color: rgba(255, 255, 255, 0.9);
 }
 
-/*endregion*/
 
-
-/*region catalog*/
 .catalog {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -238,4 +235,3 @@ button {
     border: 1px solid rgb(241, 109, 127);
 }
 
-/*endregion*/
